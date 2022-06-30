@@ -1,0 +1,85 @@
+/*---------Adaptar Tamaño en Navegador---------*/
+html, body {
+    min-height: 100%;
+}
+
+* {
+    background-color: #273238;
+}
+
+h1 {
+    color: #698593;
+    background-color: #ffffff;
+    text-align: center;
+    font-family: 'Impact', 'Charcoal', sans-serif;
+    font-size: 1.5cm;
+    letter-spacing: 2px;
+}
+
+h2 {
+    font-family: 'Arial', 'Gadget', sans-serif;
+    font-style: oblique;
+    font-weight: 900;
+}
+
+p {
+    color: #ffffff;
+    font-family: 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
+}
+
+img {
+    border: solid;
+    border-width: 5px;
+    margin-left: 30px;
+}
+
+/*---------------Aspiradora---------------*/
+
+.aspi {
+    color: #e6cbbf;
+}
+
+img .aspi {
+    border-color: #e6cbbf;
+}
+
+/*---------------Celular---------------*/
+
+.celu {
+    color: #a1c1cb;
+}
+
+img .celu {
+    border-color: #a1c1cb;
+}
+
+/*---------------Consolas---------------*/
+
+.cons {
+    color: #bcbdbf;
+}
+
+img .cons {
+    border-color: #bcbdbf;
+}
+
+/*---------------Home theater---------------*/
+
+.ht {
+    color: #8d94a1;
+}
+
+img .ht {
+    border-color: #8d94a1;
+}
+
+/*---------------Televisor---------------*/
+
+.tele {
+    color: #b2b2aa;
+}
+
+img .tele {
+    border-color: #b2b2aa;
+}
+

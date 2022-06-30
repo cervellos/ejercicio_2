@@ -1,0 +1,18 @@
+html, body {
+    min-height: 100%;
+}
+
+body{
+ background-color:#289688;
+ text-align: center;
+}
+
+h1 {
+ font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ color:#fcea3e;
+}
+img{
+    border:solid 10px; 
+    border-color:#FFFFFF;
+    margin: 5px;
+}
